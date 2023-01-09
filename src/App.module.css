@@ -1,0 +1,8 @@
+.bottomBox{
+    height: 30vh;
+    background-color: hsl(195deg, 20%, 86%);
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    z-index: -1;
+  }
